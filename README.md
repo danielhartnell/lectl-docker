@@ -17,5 +17,5 @@ $ docker run lectl <domain>
 You can also pull it from Docker Hub:
 
 ```
-$ docker run dhartnell/lectl <domain>
+$ docker run dhartnell/lectl-docker <domain>
 ```

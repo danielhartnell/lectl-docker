@@ -11,7 +11,7 @@ PR to the [lectl project](https://github.com/sahsanu/lectl) to support Mac OS X.
 
 ```
 $ docker build -t lectl .
-$ docker run lectl <insert_domain>
+$ docker run lectl <domain>
 ```
 
 You can also pull it from Docker Hub:
